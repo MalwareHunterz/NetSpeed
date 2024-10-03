@@ -1,4 +1,5 @@
 # NetSpeed
+![netspeed](https://github.com/user-attachments/assets/d16f4bd0-9974-4ddb-8eb7-d6392430e8ed)
 
 ## Overview
 NetSpeed is an advanced network speed monitoring tool that provides real-time statistics on network interfaces. It displays upload and download speeds, packet counts, and error counts, making it an essential utility for network analysis.
