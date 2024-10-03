@@ -12,18 +12,15 @@ NetSpeed is an advanced network speed monitoring tool that provides real-time st
 - Configurable refresh rate for real-time monitoring.
 - Combines data for all interfaces for a comprehensive overview.
 
-## Installation
-1. Clone the repository:
+## Installation to $PATH (/local/usr/bin) for easy launching from everywhere
+1. Clone the repository, change directory to 'Netspeed', install the requirements and run install.py:
+   
    ```bash
    git clone https://github.com/MalwareHunterz/NetSpeed.git
    cd NetSpeed
-
-    Install the required packages:
-
-    bash
-
-    pip install -r requirements.txt
-
+   sudo pip install -r requirements.txt
+   sudo python install.py
+   ```
 ## Usage
 
 Run the script with options as needed:
@@ -47,7 +44,7 @@ Options
 ```
 ## Example
 
-To monitor the eth0 interface:
+To monitor the **eth0** interface:
 
 ```bash
 
