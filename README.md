@@ -15,7 +15,7 @@ NetSpeed is an advanced network speed monitoring tool that provides real-time st
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/NetSpeed.git
+   git clone https://github.com/MalwareHunterz/NetSpeed.git
    cd NetSpeed
 
     Install the required packages:
